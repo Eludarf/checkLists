@@ -1,0 +1,4 @@
+-> Takes two lists as input
+-> Compares added lists
+-> Deletes matching members from both lists
+-> Prints the result
